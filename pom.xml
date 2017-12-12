@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 Copyright (c) 2012 - 2016 YCSB contributors. All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you
@@ -104,7 +104,7 @@ LICENSE file.
     <arangodb3.version>4.1.7</arangodb3.version>
     <azurestorage.version>4.0.0</azurestorage.version>
     <cloudspanner.version>0.24.0-beta</cloudspanner.version>
-    <rocksdb.version>5.8.6</rocksdb.version>
+    <rocksdb.version>5.9.0</rocksdb.version>
   </properties>
 
   <modules>
@@ -182,7 +182,7 @@ LICENSE file.
                 <requireMavenVersion>
                   <version>3.1.0</version>
                 </requireMavenVersion>
-              </rules>    
+              </rules>
             </configuration>
           </execution>
         </executions>
